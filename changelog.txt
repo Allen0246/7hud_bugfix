@@ -2,6 +2,12 @@
 7HUD through the years
 ======================
 
+v5.15
+10/11/2025
+
+- fixed medals missing from 9v9+ scoreboard
+- fixed backpack/store page tabs (again)
+
 v5.14
 03/19/2025
 
